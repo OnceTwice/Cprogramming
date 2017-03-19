@@ -6,6 +6,7 @@ int main(void)
 
 	printf("hello C programming \n");
 
+	printf("%d \n", ++a);
 
 
 	return 0;
